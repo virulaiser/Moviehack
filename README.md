@@ -1,4 +1,5 @@
 # React + Vite
+This work is an exercise from the Hack Academy Bootcamp. It uses a private API to provide information.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
